@@ -1,1 +1,4 @@
 ignore_files
+svet/bin
+svet/obj
+*.suo
